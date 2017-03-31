@@ -82,6 +82,7 @@ span.menu{
     font-family: 'Open Sans', sans-serif;
 }
 .link-effect-3 a::before {
+	white-space: nowrap;
 	position: absolute;
 	top: 0;
 	left: 0;
